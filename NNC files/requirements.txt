@@ -1,0 +1,6 @@
+PyQt6
+pythonnet
+wmi
+pyinstaller
+winsound; platform_system=='Windows'
+win10toast
