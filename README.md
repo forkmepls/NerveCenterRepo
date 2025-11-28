@@ -23,9 +23,9 @@ This software utilizes the **WinRing0** low-level driver to access CPU registers
 ### 🛡️ Verification (Check the Hash)
 To ensure you are running the genuine, unmodified software, please verify the SHA-256 hash of the `.exe` against the value below:
 
-| File Name | SHA-256 Hash | Direct link to results
+| File Name | SHA-256 Hash | Direct link to results |
 | :--- | :--- |
-| `NNC_25.exe` | `19df8747e5a70843e5b34f12d2fa6836996756648ddb06eb44dfdc7ee6c6b8b9` | https://www.virustotal.com/gui/file/19df8747e5a70843e5b34f12d2fa6836996756648ddb06eb44dfdc7ee6c6b8b9?nocache=1
+| `NNC_25.exe` | `19df8747e5a70843e5b34f12d2fa6836996756648ddb06eb44dfdc7ee6c6b8b9` | `https://www.virustotal.com/gui/file/19df8747e5a70843e5b34f12d2fa6836996756648ddb06eb44dfdc7ee6c6b8b9?nocache=1`
 
 > *You can verify this hash by uploading the file to [VirusTotal.com](https://www.virustotal.com/)*
 
