@@ -1,3 +1,5 @@
+# KNOWN ISSUES- Clock rate for the CPU may report inaccurate maximums, the GPU memory rate is the effective clock rate (x2) . 
+
 # NNC (Nick's Nerve Center) - Hardware Monitor
 
 ![Status](https://img.shields.io/badge/Status-Active_Development-green) ![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-blue) ![License](https://img.shields.io/badge/License-Proprietary-orange)
