@@ -1,0 +1,11 @@
+This software uses the WinRing0 low-level driver to read CPU clock speeds. Because this driver allows direct hardware access, Windows Defender and other Antivirus software will flag it as a "Vulnerable Driver" or "Malware."
+
+This is expected behavior. The software is safe, but the driver is flagged because it is powerful.
+
+To Run This Software:
+
+    You may need to whitelist the folder in Windows Defender.
+
+    You can verify the safety of the file by checking the VirusTotal hash below.
+
+    You will need to run it as administrator as well in order for the dll to read the sensor data from your system.
