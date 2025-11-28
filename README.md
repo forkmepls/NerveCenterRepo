@@ -1,4 +1,4 @@
-# KNOWN ISSUES- Clock rate for the CPU may report inaccurate maximums, the GPU memory rate is the effective clock rate (x2) . 
+# KNOWN ISSUES- Clock rate for the CPU may report inaccurate maximum values but the current "Value" field should be accurate, the GPU memory rate is the effective clock rate (x2) . 
 
 # NNC (Nick's Nerve Center) - Hardware Monitor
 
